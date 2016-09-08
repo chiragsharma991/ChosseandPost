@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mobilestyx/Desktop/Mytest/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/mobilestyx/Desktop/Mytest/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mobilestyx/Desktop/Mytest/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/upload.png",
+        "source": "/Users/mobilestyx/Desktop/Mytest/app/src/main/res/mipmap-xhdpi/upload.png"
+    },
+    {
+        "merged": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\upload.png",
+        "source": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\src\\main\\res\\mipmap-xhdpi\\upload.png"
+    }
+]

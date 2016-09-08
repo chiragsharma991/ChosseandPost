@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.chari.mytest.MainActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/FilePath"
+        android:text="> Press and upload your file on Test server"
+        android:layout_marginBottom="30dp"
+        android:layout_margin="20dp"
+        />
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/uploadNext"
+        android:src="@mipmap/upload"
+
+
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/upload"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="UPLOAD"
+        />
+
+
+</LinearLayout>

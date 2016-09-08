@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\shekhar\Android App\BackUp\30.08 after new\Mytest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="F:\shekhar\Android App\BackUp\30.08 after new\Mytest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_2afadb2cc69de39822ede69661f9e2a36bd00604.jar" />
+    </item>
+    <item
+        jar="F:\shekhar\Android App\BackUp\30.08 after new\Mytest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\shekhar\Android App\BackUp\30.08 after new\Mytest\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_b88814eb104061b4c5396a34884c32869ef120d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chari\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\shekhar\Android App\BackUp\30.08 after new\Mytest\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_935a7fcbafd1894cd6c2eeb2e4d58c4e0d2aed79.jar" />
+    </item>
+    <item
+        jar="F:\shekhar\Android App\BackUp\30.08 after new\Mytest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="F:\shekhar\Android App\BackUp\30.08 after new\Mytest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_ff400aa91a81297aee0c9b8fe9865c85353bdf79.jar" />
+    </item>
+    <item
+        jar="F:\shekhar\Android App\BackUp\30.08 after new\Mytest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="F:\shekhar\Android App\BackUp\30.08 after new\Mytest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_7358fee1aaaacde5d3189cb4e64014b62b4d86a5.jar" />
+    </item>
+    <item
+        jar="F:\shekhar\Android App\BackUp\30.08 after new\Mytest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\shekhar\Android App\BackUp\30.08 after new\Mytest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_798895ce418ccf17791cb579235657fa02bd11a8.jar" />
+    </item>
+
+</items>
