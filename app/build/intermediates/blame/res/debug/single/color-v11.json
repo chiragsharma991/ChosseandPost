@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/Users/mobilestyx/Desktop/Mytest/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/mobilestyx/Desktop/Mytest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "/Users/mobilestyx/Desktop/Mytest/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/mobilestyx/Desktop/Mytest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

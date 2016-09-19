@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.chari.mytest.MainActivity"
+    tools:context=".PicknPost"
     android:orientation="vertical"
     android:gravity="center"
     >
@@ -37,6 +37,18 @@
         android:layout_marginTop="100dp"
         android:text="UPLOAD"
         />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="Share"
+        android:onClick="Share"
+        />
+
+
 
 
 </LinearLayout>

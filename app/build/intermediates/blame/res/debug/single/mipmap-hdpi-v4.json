@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
-        "source": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/mobilestyx/Desktop/Mytest/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
-        "source": "/Users/mobilestyx/Desktop/Mytest/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\upload.png",
-        "source": "/Users/mobilestyx/Desktop/Mytest/F:\\shekhar\\Android App\\BackUp\\30.08 after new\\Mytest\\app\\src\\main\\res\\mipmap-hdpi\\upload.png"
-    },
-    {
-        "merged": "/Users/mobilestyx/Desktop/Mytest/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/upload.png",
-        "source": "/Users/mobilestyx/Desktop/Mytest/app/src/main/res/mipmap-hdpi/upload.png"
+        "merged": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/upload.png",
+        "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/res/mipmap-hdpi/upload.png"
     }
 ]
