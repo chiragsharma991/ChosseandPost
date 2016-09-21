@@ -4,30 +4,35 @@
     api-level="21"
     density="hdpi"
     format="7"
-    timestamp="30324888726291"
+    timestamp="28310137520187"
     token="-1571878177218632073" >
 
     <task
         name="javac"
-        duration="2765" />
+        duration="1121" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="858" />
+        duration="70" />
     <task
         name="verifier"
-        duration="48" />
+        duration="19" />
 
     <artifact
-        location="/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
 
-    <build timestamp="30324888726291" >
+    <build timestamp="23172821603136" >
         <artifact
             location="/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="28310137520187" >
+        <artifact
+            location="/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

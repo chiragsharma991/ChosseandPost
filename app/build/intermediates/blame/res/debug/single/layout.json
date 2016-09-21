@@ -124,12 +124,20 @@
         "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/res/merged/debug/layout/activity_progress_bar.xml",
+        "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/res/layout/activity_progress_bar.xml"
+    },
+    {
         "merged": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/res/merged/debug/layout/activity_downloader.xml",
+        "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/res/layout/activity_downloader.xml"
     },
     {
         "merged": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",

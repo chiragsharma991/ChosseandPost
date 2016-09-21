@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml
@@ -25,8 +25,12 @@ uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:7:5-80
 	android:name
 		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:9:5-23:19
+ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:10:5-26:19
 MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0] /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
@@ -35,33 +39,41 @@ MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/mobiles
 MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-v4:24.0.0] /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:12:9-41
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:13:9-41
 	android:supportsRtl
-		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:14:9-35
 	android:allowBackup
-		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:11:9-35
 	android:icon
-		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:12:9-43
 	android:theme
-		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:14:9-40
-activity#com.example.chari.mytest.FilePicker
-ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:15:9-21:20
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.chari.mytest.ProgressBar
+ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:15:19-45
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:16:19-46
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:20:27-74
 activity#com.example.chari.mytest.BaseActivity
-ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:22:9-59
+ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:23:9-50
 	android:name
-		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:22:19-47
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:23:19-47
+activity#com.example.chari.mytest.FilePicker
+ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:24:9-48
+	android:name
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:24:19-45
+activity#com.example.chari.mytest.PicknPost
+ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:25:9-56
+	android:name
+		ADDED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml:25:19-44
 uses-sdk
 INJECTED from /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
