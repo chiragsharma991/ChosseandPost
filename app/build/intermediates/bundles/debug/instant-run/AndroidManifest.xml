@@ -20,7 +20,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.chari.mytest.ProgressBar" >
+        <activity android:name="com.example.chari.mytest.NotificationBarProcess" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -30,6 +30,7 @@
         <activity android:name="com.example.chari.mytest.BaseActivity" />
         <activity android:name="com.example.chari.mytest.FilePicker" />
         <activity android:name="com.example.chari.mytest.PicknPost" />
+        <activity android:name="com.example.chari.mytest.Downloader" />
     </application>
 
 </manifest>

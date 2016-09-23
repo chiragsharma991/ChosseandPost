@@ -56,6 +56,10 @@
         "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_time.xml"
     },
     {
+        "merged": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/res/merged/debug/layout/activity_notification_bar_process.xml",
+        "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/src/main/res/layout/activity_notification_bar_process.xml"
+    },
+    {
         "merged": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/Users/mobilestyx/Desktop/Chirag/ChosseandPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_dialog_title_material.xml"
     },
